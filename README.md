@@ -18,4 +18,3 @@ The data from 2010 to 2021 November (72 CSV files) were collected, preprocessed,
 The design of this dashboard was inspired from the following dashboard created by Zainab Ayodimeji - 
 https://public.tableau.com/app/profile/zainab2225/viz/SunnyStreetVizForSocialGood_16318182787050/SUNNYSTREETVFSG
 
-This dashboard was created by myself [Naren Mohan](https://www.linkedin.com/in/narenmohan1997/) and my teammate [Ashwin Kadam](https://www.linkedin.com/in/ashwinkadam07/) as part of the IE6600 Computation & Visualization course under Professor Mohammadi Ramin in Northeastern University.
